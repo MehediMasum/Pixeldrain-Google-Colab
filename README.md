@@ -26,7 +26,13 @@ Edit the Script:
 Run the Script:
 
     In Google Colab: Paste and run the script in a Colab cell.
-    Locally: Save the script as a .py file and run it with python script_name.py.
+    
+    Locally: Run the script via cmd.
+    python local_Pixeldrain_Uploader.py
+    Enter the download URL and file name when prompted.
+    Watch the real-time download progress.
+    After download, the script will prompt for your PixelDrain API key and upload the file, showing real-time upload progress.
+    Full information about the uploaded file will be displayed after successful completion.
 
 Check Output:
 
